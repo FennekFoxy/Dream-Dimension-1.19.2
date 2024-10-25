@@ -1,0 +1,9 @@
+{
+  "replace":false,
+  "values": [
+    "dreamdimension:raw_dream_block",
+    "dreamdimension:dream_block",
+    "dreamdimension:dream_ore"
+
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "item.dreamdimension.scythe": "Scythe",
+  "item.dreamdimension.dream_sword": "Dream Sword",
+  "item.dreamdimension.dream_axe": "Dream Axe",
+  "item.dreamdimension.dream_pickaxe": "Dream PickAxe",
+  "item.dreamdimension.dream_shovel": "Dream Shovel",
+  "item.dreamdimension.nightmare_sword": "Nightmare Sword",
+  "item.dreamdimension.nightmare_axe": "Nightmare Axe",
+  "item.dreamdimension.nightmare_pickaxe": "Nightmare Pickaxe",
+  "item.dreamdimension.nightmare_shovel": "Nightmare Shovel",
+
+  "item.dreamdimension.dream_helmet" : "Dream Helmet",
+  "item.dreamdimension.dream_chestplate" : "Dream Chestplate",
+  "item.dreamdimension.dream_leggings" : "Dream Leggings",
+  "item.dreamdimension.dream_boots" : "Dream Boots",
+  "item.dreamdimension.nightmare_helmet" : "Nightmare Helmet",
+  "item.dreamdimension.nightmare_chestplate" : "Nightmare Chestplate",
+  "item.dreamdimension.nightmare_leggings" : "Nightmare Leggings",
+  "item.dreamdimension.nightmare_boots" : "Nightmare Boots",
+  "item.dreamdimension.cloud_boots" : "Cloud Boots",
+  "item.dreamdimension.shadow_cloak" : "Shadow Cloak",
+
+  "item.dreamdimension.dream": "Dream",
+  "item.dreamdimension.dream_essence": "Dream Essence",
+  "item.dreamdimension.dream_charm": "Dream Charm",
+  "item.dreamdimension.nightmare_shard": "Nightmare Shard",
+  "item.dreamdimension.dream_milk_bucket": "Dream Milk Bucket",
+  "item.dreamdimension.memory_cube" : "Memory Cube",
+  "item.dreamdimension.waking_stone" : "Waking Stone",
+  "item.dreamdimension.raw_dream": "Raw Dream",
+  "item.dreamdimension.eggplant": "Eggplant",
+  "item.dreamdimension.eggplant_seeds": "Eggplant Seeds",
+  "item.dreamdimension.tomato": "Tomato",
+  "item.dreamdimension.tomato_seeds": "Tomato Seeds",
+  "item.dreamdimension.burned_spawn_egg": "Burned Spawn Egg",
+
+  "block.dreamdimension.dream_block": "Block of Dreams",
+  "block.dreamdimension.jump_block": "Jump Block",
+  "block.dreamdimension.float_block": "Float Block",
+  "block.dreamdimension.raw_dream_block": "Raw Dream Block",
+  "block.dreamdimension.dream_ore": "Dream Ore",
+  "block.dreamdimension.eggplant_crop": "Eggplant Crop",
+  "block.dreamdimension.tomato_crop": "Tomato Crop",
+  "block.dreamdimension.infusion_station": "Infusion Station",
+
+  "enchantment.dreamdimension.ender_slayer_enchantment": "Ender Slayer",
+
+  "biome.dreamdimension.peaceful_meadows": "Peaceful Meadows",
+  "biome.dreamdimension.obsidian_spikes": "Obsidian Spikes",
+
+  "gamerule.stonecutterdamage": "Stonecutter Damage",
+  "death.attack.stonecutter": "%1$s was sliced by a stonecutter",
+
+  "itemGroup.dreamdimension.dream": "Dream Dimension"
+
+}

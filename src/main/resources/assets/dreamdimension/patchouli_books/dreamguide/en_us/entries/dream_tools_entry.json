@@ -1,0 +1,11 @@
+{
+  "name": "Dream Tools",
+  "icon": "dreamdimension:dream_pickaxe",
+  "category": "dreamdimension:tools_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This page will explain how to get the new Dream Tools and what they do!"
+    }
+  ]
+}

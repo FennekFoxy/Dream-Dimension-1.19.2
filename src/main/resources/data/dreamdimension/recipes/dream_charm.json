@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#a#",
+    "aba",
+    "#a#"
+  ],
+  "key": {
+    "#": {
+      "item": "dreamdimension:dream"
+    },
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "dreamdimension:dream_charm"
+  }
+}

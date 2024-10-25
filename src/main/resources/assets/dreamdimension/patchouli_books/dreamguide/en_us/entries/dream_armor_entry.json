@@ -1,0 +1,12 @@
+{
+  "name": "Dream Armor",
+  "icon": "dreamdimension:dream_chestplate",
+  "category": "dreamdimension:armor_category",
+  "pages": [
+    "Dream Armor",
+    {
+      "type": "patchouli:text",
+      "text": "This page will explain how to get the new Dream Armor and what they do!"
+    }
+  ]
+}

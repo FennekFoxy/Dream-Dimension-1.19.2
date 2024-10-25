@@ -1,0 +1,28 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "precipitation": "rain",
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 12638463,
+    "water_color": 64511,
+    "water_fog_color": 329011,
+    "grass_color": 8388863
+  },
+  "spawners": {
+    "axolotls": [
+      {
+        "type": "minecraft:axolotl",
+        "weight": 1,
+        "minCount": 0,
+        "maxCount": 10
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    "minecraft:trees_meadow"
+  ]
+}

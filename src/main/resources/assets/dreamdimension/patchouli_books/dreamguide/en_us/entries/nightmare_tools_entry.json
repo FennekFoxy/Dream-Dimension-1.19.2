@@ -1,0 +1,11 @@
+{
+  "name": "Nightmare Tools",
+  "icon": "dreamdimension:nightmare_pickaxe",
+  "category": "dreamdimension:tools_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This page will explain how to get the new Nightmare Tools and what they do!"
+    }
+  ]
+}

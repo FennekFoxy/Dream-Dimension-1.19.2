@@ -1,0 +1,11 @@
+{
+  "name": "Nightmare Armor",
+  "icon": "dreamdimension:nightmare_chestplate",
+  "category": "dreamdimension:armor_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This page will explain how to get the new Nightmare Armor and what they do!"
+    }
+  ]
+}

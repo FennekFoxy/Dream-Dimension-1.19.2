@@ -1,0 +1,20 @@
+{
+  "temperature": 10,
+  "downfall": 0,
+  "precipitation": "none",
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 10354688,
+    "fog_color": 12638463,
+    "water_color": 16711680,
+    "water_fog_color": 8388608,
+    "grass_color": 1966337,
+    "foliage_color": 7995392
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    "minecraft:ice_spike"
+  ]
+}

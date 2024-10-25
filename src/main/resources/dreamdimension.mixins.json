@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.fennekfoxy.dreamdimension.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FennekFox",
+		"StonecutterDamage",
+		"ZombieMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
